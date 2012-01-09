@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/background">
+	<TextView android:layout_height="wrap_content" android:text="@string/status_update_title"
+		android:layout_width="wrap_content" android:layout_gravity="center_horizontal"
+		android:layout_marginTop="5dp"
+		android:layout_marginBottom="5dp" android:textColor="@color/title_color" android:textSize="@dimen/title_text_size"/>
+	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="right" android:id="@+id/update_status_counter" android:text="140"></TextView><EditText android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:layout_weight="1"
+		android:hint="@string/status_update_edit_text_hint" android:id="@+id/status_update_edit_text" android:background="@color/update_status_background_color" android:textColor="@color/default_text" android:padding="5dp"></EditText>
+
+<Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/status_update_button_label" android:id="@+id/status_update_button" android:background="@drawable/twitter_button_bg"></Button>
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_status_update_title_condensed">Status</string>
+    <string name="menu_status_update_title">Status Update</string>
+    <string name="menu_item_refresh_title">Refresh</string>
+    <string name="prefs_start_on_boot_summary">Do you want to automatically start the service upon device startp-up?</string>
+    <string name="prefs_start_on_boot_title">Start On Boot?</string>
+    <string name="timeline_empty_message">No messages to display</string>
+    <string name="timeline_title">Timeline</string>
+    <string name="menu_item_stop_service_title">Stop</string>
+    <string name="menu_item_start_service_title">Start</string>
+    <string name="menu_items_prefs_title_condensed">Prefs</string>
+    <string name="menu_item_prefs_title">Preferences</string>
+    <string name="prefs_url_summary">Please enter the URL for your micro-bloggin site.</string>
+    <string name="prefs_url_title">Site Url</string>
+    <string name="prefs_password_summary">Yup, your password goes here</string>
+    <string name="prefs_password_title">Password</string>
+    <string name="prefs_username_summary">Enter your username</string>
+    <string name="prefs_username_title">Username</string>
+    <string name="status_update_button_label">Update Status</string>
+    <string name="status_update_edit_text_hint">whats on your mind?</string>
+    <string name="status_update_title">Status Update</string>
+    <string name="hello">Hello World, StatusUpdateActivity!</string>
+    <string name="app_name">Yamba</string>
+    <string name="status_update_pending_message">Posting your update</string>
+    <string name="status_update_failed_message">Failed to posting your update</string>
+    <string name="status_update_success_message">Posted your update in %.2f seconds</string>
+    <string name="timeline_updated_notification_title">New Yamba Timeline Updates!</string>
+    <string name="timeline_updated_notification_summary">You have %d new updates!</string>
+
+<string name="timeline_updating_message">Updating</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference android:summary="@string/prefs_username_summary" android:key="username" android:title="@string/prefs_username_title"></EditTextPreference>
+<EditTextPreference android:summary="@string/prefs_password_summary" android:password="true" android:key="password" android:title="@string/prefs_password_title"></EditTextPreference>
+<EditTextPreference android:summary="@string/prefs_url_summary" android:key="url" android:title="@string/prefs_url_title" android:defaultValue="https://learningandroid.status.net/api"></EditTextPreference>
+<CheckBoxPreference android:title="@string/prefs_start_on_boot_title" android:key="startOnBoot" android:summary="@string/prefs_start_on_boot_summary" android:defaultValue="false"></CheckBoxPreference>
+</PreferenceScreen>

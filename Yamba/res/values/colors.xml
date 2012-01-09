@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="default_text">#fff</color>
+<color name="title_color">@color/default_text</color>
+<color name="update_status_background_color">#6009</color>
+</resources>
