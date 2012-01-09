@@ -18,7 +18,7 @@
     <string name="prefs_username_summary">Enter your username</string>
     <string name="prefs_username_title">Username</string>
     <string name="status_update_button_label">Update Status</string>
-    <string name="status_update_edit_text_hint">talk to me...</string>
+    <string name="status_update_edit_text_hint">talk to me... NOW!</string>
     <string name="status_update_title">Status Update</string>
     <string name="hello">Hello World, StatusUpdateActivity!</string>
     <string name="app_name">Yamba</string>
