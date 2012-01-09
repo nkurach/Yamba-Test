@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="menu_status_update_title_condensed">Status</string>
-    <string name="menu_status_update_title">Status Update</string>
+    <string name="menu_status_update_title">Status Update YO!</string>
     <string name="menu_item_refresh_title">Refresh</string>
     <string name="prefs_start_on_boot_summary">Do you want to automatically start the service upon device startp-up?</string>
     <string name="prefs_start_on_boot_title">Start On Boot?</string>
@@ -18,7 +18,7 @@
     <string name="prefs_username_summary">Enter your username</string>
     <string name="prefs_username_title">Username</string>
     <string name="status_update_button_label">Update Status</string>
-    <string name="status_update_edit_text_hint">whats on your mind?</string>
+    <string name="status_update_edit_text_hint">talk to me...</string>
     <string name="status_update_title">Status Update</string>
     <string name="hello">Hello World, StatusUpdateActivity!</string>
     <string name="app_name">Yamba</string>
